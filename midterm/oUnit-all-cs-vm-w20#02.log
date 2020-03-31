@@ -1,0 +1,18 @@
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Start test all:1:Problem A.2: is_prefix, is_subsequence.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Test all:1:Problem A.2: is_prefix, is_subsequence is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: End test all:1:Problem A.2: is_prefix, is_subsequence.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Start test all:2:Problem A.3: is_embedded.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Test all:2:Problem A.3: is_embedded is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: End test all:2:Problem A.3: is_embedded.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Start test all:4:Problem A.5: member, remove_all, unique.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Test all:4:Problem A.5: member, remove_all, unique is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: End test all:4:Problem A.5: member, remove_all, unique.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Start test all:7:Problem A.8: compose_all.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Test all:7:Problem A.8: compose_all is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: End test all:7:Problem A.8: compose_all.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Start test all:9:Part B: insert.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Test all:9:Part B: insert is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: End test all:9:Part B: insert.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Start test all:11:Part B: random inserts: balanced.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: Test all:11:Part B: random inserts: balanced is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#02 I: End test all:11:Part B: random inserts: balanced.

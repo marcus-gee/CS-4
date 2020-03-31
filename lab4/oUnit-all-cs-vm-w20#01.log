@@ -1,0 +1,15 @@
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Start test all:0:make_point/get_coords.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Test all:0:make_point/get_coords is successful.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: End test all:0:make_point/get_coords.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Start test all:2:segment_length.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Test all:2:segment_length is successful.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: End test all:2:segment_length.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Start test all:4:make_rectangle.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Test all:4:make_rectangle is successful.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: End test all:4:make_rectangle.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Start test all:7:unary integers.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Test all:7:unary integers is successful.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: End test all:7:unary integers.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Start test all:13:simplify.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: Test all:13:simplify is successful.
+2020-02-28T21:34:40+00:00 cs-vm-w20#01 I: End test all:13:simplify.

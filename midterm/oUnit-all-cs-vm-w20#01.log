@@ -1,0 +1,18 @@
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Start test all:0:Problem A.1: closest_power.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Test all:0:Problem A.1: closest_power is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: End test all:0:Problem A.1: closest_power.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Start test all:3:Problem A.4: remove_first, same_elements.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Test all:3:Problem A.4: remove_first, same_elements is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: End test all:3:Problem A.4: remove_first, same_elements.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Start test all:5:Problem A.6: intercalate.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Test all:5:Problem A.6: intercalate is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: End test all:5:Problem A.6: intercalate.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Start test all:6:Problem A.7: any, all, repeated.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Test all:6:Problem A.7: any, all, repeated is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: End test all:6:Problem A.7: any, all, repeated.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Start test all:8:Part B: member.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Test all:8:Part B: member is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: End test all:8:Part B: member.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Start test all:10:Part B: random inserts: ordered.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: Test all:10:Part B: random inserts: ordered is successful.
+2020-02-21T06:23:22+00:00 cs-vm-w20#01 I: End test all:10:Part B: random inserts: ordered.

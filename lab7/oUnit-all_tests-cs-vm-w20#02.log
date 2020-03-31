@@ -1,0 +1,9 @@
+2020-03-12T18:38:00+00:00 cs-vm-w20#02 I: Start test all_tests:1:compare tests.
+2020-03-12T18:38:00+00:00 cs-vm-w20#02 I: Test all_tests:1:compare tests is successful.
+2020-03-12T18:38:00+00:00 cs-vm-w20#02 I: End test all_tests:1:compare tests.
+2020-03-12T18:38:00+00:00 cs-vm-w20#02 I: Start test all_tests:3:add tests.
+2020-03-12T18:38:00+00:00 cs-vm-w20#02 I: Test all_tests:3:add tests is successful.
+2020-03-12T18:38:00+00:00 cs-vm-w20#02 I: End test all_tests:3:add tests.
+2020-03-12T18:38:00+00:00 cs-vm-w20#02 I: Start test all_tests:6:next tests.
+2020-03-12T18:38:01+00:00 cs-vm-w20#02 I: Test all_tests:6:next tests is successful.
+2020-03-12T18:38:01+00:00 cs-vm-w20#02 I: End test all_tests:6:next tests.

@@ -1,0 +1,24 @@
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Start test all:1:ifast_expt.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Test all:1:ifast_expt is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: End test all:1:ifast_expt.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Start test all:2:fast_mult.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Test all:2:fast_mult is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: End test all:2:fast_mult.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Start test all:5:product_rec.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Test all:5:product_rec is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: End test all:5:product_rec.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Start test all:7:product_iter.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Test all:7:product_iter is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: End test all:7:product_iter.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Start test all:8:factorial_iter.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Test all:8:factorial_iter is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: End test all:8:factorial_iter.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Start test all:10:sum.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Test all:10:sum is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: End test all:10:sum.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Start test all:12:compose.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Test all:12:compose is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: End test all:12:compose.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Start test all:15:smallest_prime_factor.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: Test all:15:smallest_prime_factor is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#02 I: End test all:15:smallest_prime_factor.

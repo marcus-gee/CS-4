@@ -1,0 +1,24 @@
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Start test all:0:fast_expt.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Test all:0:fast_expt is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: End test all:0:fast_expt.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Start test all:3:ifast_mult.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Test all:3:ifast_mult is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: End test all:3:ifast_mult.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Start test all:4:isum.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Test all:4:isum is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: End test all:4:isum.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Start test all:6:factorial_rec.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Test all:6:factorial_rec is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: End test all:6:factorial_rec.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Start test all:9:pi_approx.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Test all:9:pi_approx is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: End test all:9:pi_approx.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Start test all:11:product.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Test all:11:product is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: End test all:11:product.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Start test all:13:repeated.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Test all:13:repeated is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: End test all:13:repeated.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Start test all:14:is_prime.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: Test all:14:is_prime is successful.
+2020-02-15T21:00:31+00:00 cs-vm-w20#01 I: End test all:14:is_prime.
