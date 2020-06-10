@@ -1,6 +1,6 @@
 # CS4
 
-This is a repository containing the projects that I have completed in CS 1. The course description is as follows:
+This is a repository containing the projects that I have completed in CS 4. The course description is as follows:
 
 "This course gives students the conceptual background necessary to construct and analyze programs, which includes specifying 
 computations, understanding evaluation models, and using major programming language constructs (functions and procedures, 
