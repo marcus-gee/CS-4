@@ -18,3 +18,5 @@ Contents:
     Lab 7: Klotski Solver.   
     Midterm: More Functions & Weight-Balancing Tree.    
     Final: NPuzzle Solver.   
+
+Course completed: Winter 2019-20
