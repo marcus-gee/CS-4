@@ -13,7 +13,7 @@ Contents:
     Lab 2: Asymptotic Complexity and Higher-Order Functions.     
     Lab 3: Lists.  
     Lab 4: Data Abstraction.     
-    Lab 5: Tags and Objects.
+    Lab 5: Tags and Objects.   
     Lab 6: Message Passing & Priority Queue.     
     Lab 7: Klotski Solver.   
     Midterm: More Functions & Weight-Balancing Tree.    
